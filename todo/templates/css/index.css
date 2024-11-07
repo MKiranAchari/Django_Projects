@@ -1,0 +1,136 @@
+/* body{
+    background-color: rgb(29, 35, 45);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 100%;
+    margin-top: 5%;
+}
+
+.signup {
+    background-color: white;
+    max-width: 70%;
+    width: max-content;
+    border-radius: 5px;
+    border-color: aqua;
+}
+
+.heading{
+    font-size: large;
+    color: rgba(241, 206, 80, 0.834);
+    text-align: center;
+}
+
+.line{
+    background-color: rebeccapurple;
+    height: 5px;
+}
+
+.field{
+    width: min-content;
+}
+.inp{
+    color: rgb(137, 107, 60);
+    font-size: larger;
+    font-weight: bold;
+    width: min-content;
+    padding: 20px 10px;
+}
+.intex{
+    border-width: 2px;
+    width: 50vh;
+    height: 20px;
+    padding: 5px;
+    font-size: medium;
+    border-radius: 5px;
+    border-color: aqua;
+}
+.next{
+    text-align: center;
+    padding: 10px 10px;
+}
+
+.smtbtn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.submit{
+    width: 70px;
+    height: 30px;
+    background-color: aqua;
+    font-size: medium;
+    border-radius: 5px;
+    border-color: aqua;
+    margin-bottom: 10px;
+} */
+body {
+    background-color: rgb(29, 35, 45);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 100%;
+    margin-top: 5%;
+}
+
+.signup {
+    background-color: rgb(29, 35, 45);;
+    max-width: 70%;
+    width: max-content;
+    border-radius: 5px;
+    border-color: aqua;
+}
+
+.heading {
+    font-size: large;
+    color: rgba(241, 206, 80, 0.834);
+    text-align: center;
+}
+
+.line {
+    background-color: rebeccapurple;
+    height: 5px;
+}
+
+.field {
+    width: min-content;
+}
+
+.inp {
+    color: rgb(137, 107, 60);
+    font-size: larger;
+    font-weight: bold;
+    width: min-content;
+    padding: 20px 10px;
+}
+
+.intex {
+    border-width: 2px;
+    width: 50vh;
+    height: 20px;
+    padding: 5px;
+    font-size: medium;
+    border-radius: 5px;
+    border-color: aqua;
+}
+
+.next {
+    text-align: center;
+    padding: 10px 10px;
+}
+
+.smtbtn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.submit {
+    width: 70px;
+    height: 30px;
+    background-color: aqua;
+    font-size: medium;
+    border-radius: 5px;
+    border-color: aqua;
+    margin-bottom: 10px;
+}
